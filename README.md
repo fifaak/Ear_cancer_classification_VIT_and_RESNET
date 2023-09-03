@@ -1,7 +1,7 @@
 # Ear_cancer_classification_VIT_and_RESNET
 Ear cancer classification using RESNET and attention map using vision transformers (with deployment)
 
-### SAMPLE TEST
+### SAMPLE TEST (VIT & ATTENTION MAP)
 # Basal carcinoma
 ![Basal_carcinoma](https://github.com/fifaak/Ear_cancer_classification_VIT_and_RESNET/assets/63219566/9752b3c2-b976-47a9-a410-73eee61bcb99)
 # Melanoma
