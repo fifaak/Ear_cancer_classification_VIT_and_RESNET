@@ -1,8 +1,8 @@
 # Ear_cancer_classification_VIT_and_RESNET
 Ear cancer classification using RESNET and attention map using vision transformers (with deployment)
-#Vision transformer Architecture
+# Vision transformer Architecture
 ![image](https://github.com/fifaak/Ear_cancer_classification_VIT_and_RESNET/assets/63219566/f6ae8242-4e07-4da5-be23-f40fe7fc8890)
-#RESNET Architecture
+# RESNET Architecture
 ![image](https://github.com/fifaak/Ear_cancer_classification_VIT_and_RESNET/assets/63219566/a68102fd-ecd2-49e1-a15f-8f80b7bb76c9)
 
 ### SAMPLE TEST (VIT & ATTENTION MAP)
